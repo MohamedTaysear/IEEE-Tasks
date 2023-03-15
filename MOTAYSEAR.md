@@ -1,10 +1,8 @@
 Task1 :
 the web works through a set of protocols and technologies that facilitate communication between computers.
 The two primary protocols used on the web are the Hypertext Transfer Protocol (HTTP) and the Transmission Control Protocol/Internet Protocol (TCP/IP)
-the web works based on the client-server model, where clients request resources from servers using HTTP,
-and servers respond with the requested resources or error messages.
-This model enables distributed computing and scalability, and it underlies the architecture of the Web as we know it.
-
+The client-server model is a computing architecture in which multiple clients communicate with a central server to access resources, data, or services. In this model, the client sends requests to the server using HTTP, and servers respond with the requested resources or error messages.
+This model is the basis of the web as we know it now.
 
 Task 2 : 
 
